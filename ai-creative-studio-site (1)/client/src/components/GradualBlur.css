@@ -1,0 +1,1 @@
+.gradual-blur{pointer-events:none;transition:opacity .3s ease-out}.gradual-blur-parent{overflow:hidden}.gradual-blur-inner{pointer-events:none}.gradual-blur-page{position:fixed;left:0;right:0;bottom:0}.scroll-blur{position:relative;z-index:20}
